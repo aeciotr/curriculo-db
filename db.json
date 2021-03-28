@@ -7,7 +7,8 @@
         "profession": "Analista de Sistemas | Desenvolvedor Web"
   },
   "courses": 
-        [{
+        [
+            {
             "id":1,
             "title": "Docker",
             "description": "Post",
@@ -20,10 +21,12 @@
             "description": "Post",
             "start": "Mar 2018",
             "end": "Dez/2020"
-        }],
+        }
+    ],
   
   "experiences": 
-        [{
+        [
+            {
             "id":1,
             "title": "IlhaSoft",
             "description": "Post",
@@ -36,5 +39,6 @@
             "description": "Post",
             "start": "Mar 2018",
             "end": "Dez/2020"
-        }]
+        }
+    ]
 }

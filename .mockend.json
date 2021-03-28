@@ -1,0 +1,40 @@
+
+  {
+    "bio": {
+        "name": "Aécio Tenório",
+        "description": "Sou um criativo Desenvolvedor Web atuando profissionalmente desde 2006 na área de TI, tenho 34 anos sou casado e resido em Maceió-AL.",
+        "age": 34,
+        "profession": "Analista de Sistemas | Desenvolvedor Web"
+  },
+  "courses": 
+        [{
+            "id":1,
+            "title": "Docker",
+            "description": "Post",
+            "start": "Mar 2018",
+            "end": "Dez/2020"
+        },
+        {
+            "id":1,
+            "title": "Git",
+            "description": "Post",
+            "start": "Mar 2018",
+            "end": "Dez/2020"
+        }],
+  
+  "experiences": 
+        [{
+            "id":1,
+            "title": "IlhaSoft",
+            "description": "Post",
+            "start": "Mar 2018",
+            "end": "Dez/2020"
+        },
+        {
+            "id":1,
+            "title": "IJ",
+            "description": "Post",
+            "start": "Mar 2018",
+            "end": "Dez/2020"
+        }]
+}
